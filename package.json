@@ -1,0 +1,16 @@
+{
+  "name": "carter-back",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.0",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0"
+  }
+}
